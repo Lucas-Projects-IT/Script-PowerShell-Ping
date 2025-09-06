@@ -29,3 +29,13 @@ ou inaccessible
 - Pour mesurer la latence réseau sans outils externes.
 
 - Utile en diagnostic réseau.
+
+**Comment l’utiliser ?**
+
+- Ouvre PowerShell.
+
+- Lance le script.
+
+- Regarde les messages pour voir si les adresses sont accessibles ou non, et combien de temps elles mettent à répondre.
+
+‼️ Tu peux modifier les adresses testées dans la variable $ips au début du script ‼️
